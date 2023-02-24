@@ -54,6 +54,7 @@
           <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
           <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
           <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://shahuzair.github.io/myproject/" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>My recent pro</span></a>
           
         </div>
       </div>
